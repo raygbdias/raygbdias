@@ -1,4 +1,4 @@
-### 
+
 {
   personality: {
     Leadership: "medium low",
