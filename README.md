@@ -1,4 +1,5 @@
-### {
+### 
+{
   personality: {
     Leadership: "medium low",
     Compassion: "high",
