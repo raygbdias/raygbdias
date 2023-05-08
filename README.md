@@ -6,7 +6,7 @@
     Adventurous: "very-high",
     Friendly: "high",
   },
-  askMeAbout: ["clean code", "computer games", "cats", "travel tips", "cooking", "IOT"],
+  askMeAbout: ["clean code", "computer games", "cats", "travel tips", "cooking", "IOT", "web-crawlers"],
   languages: {
     natural: ["portuguese", "english"],
     backEnd: ["C#", "python"]
@@ -18,7 +18,7 @@
     databases: ["Mysql", "MongoDB", "redis"],
     mobile: "flutter",
     devOps: ["azure", "docker"],
-    misc: ["git", "RestAPI"],
+    misc: ["git", "RestAPI", "Selenium"],
   },
 }
 ```
