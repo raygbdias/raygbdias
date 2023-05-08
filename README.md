@@ -10,14 +10,13 @@
   languages: {
     natural: ["portuguese", "english"],
     backEnd: ["C#", "python"]
-    mobile: ["dart"],
-    embedded: ["c++"],
-    serverless: ["python"],
+    mobile: "dart",
+    embedded: "c++"
   },
   technologies: {
-    backEnd: ["elastic-search"],
+    backEnd: "elastic-search",
     databases: ["Mysql", "MongoDB", "redis"],
-    mobile: ["flutter"],
+    mobile: "flutter",
     devOps: ["azure", "docker"],
     misc: ["git", "RestAPI"],
   },
