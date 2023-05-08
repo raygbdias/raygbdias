@@ -1,5 +1,4 @@
-
-{
+```
   personality: {
     Leadership: "medium low",
     Compassion: "high",
@@ -23,3 +22,4 @@
     misc: ["git", "RestAPI"],
   },
 }
+```
