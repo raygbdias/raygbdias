@@ -1,6 +1,6 @@
 ```
   personality: {
-    Leadership: "medium low",
+    Leadership: "High",
     Compassion: "high",
     Curious: "very-high",
     Adventurous: "very-high",
