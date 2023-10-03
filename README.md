@@ -9,12 +9,14 @@
   askMeAbout: ["clean code", "computer games", "cats", "travel tips", "cooking", "IOT", "web-crawlers"],
   languages: {
     natural: ["portuguese", "english"],
+    frontEnd: ["JavaScript", "TypeScript"]
     backEnd: ["C#", "python"]
     mobile: "dart",
     embedded: "c++"
   },
   technologies: {
-    backEnd: "elastic-search",
+    frontEnd: ["React", "Next"],
+    backEnd: ["elastic-search", "RabbitMq"],
     databases: ["Mysql", "MongoDB", "redis"],
     mobile: "flutter",
     devOps: ["azure", "docker"],
